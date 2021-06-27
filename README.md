@@ -38,7 +38,7 @@ Use `Model Downloader` to download the required models and convert the downloade
 
 
 ### Download Model Checkpoints from here
-Please download the <a href = "https://drive.google.com/file/d/1ZuUiUB6CK66lMxYHLra1pJ6Wp8MheWuH/view?usp=sharing">Model Checkpoints</a> and move the file to the <a href = "https://github.com/Aaditya188/Hawkeye/CapTor/camera">camera</a> folder.
+Please download the <a href = "https://drive.google.com/file/d/1ZuUiUB6CK66lMxYHLra1pJ6Wp8MheWuH/view?usp=sharing">Model Checkpoints</a> and move the file to the <a href = "https://github.com/Aaditya188/Hawkeye/tree/main/CapTor/camera">camera</a> folder.
 
 
 
