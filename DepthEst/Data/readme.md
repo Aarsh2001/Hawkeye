@@ -10,8 +10,8 @@ For our purpose, we'll be using data from the stereo cameras only. Go to this [l
 
 | Data          | Info          | type  |
 | ------------- |:-------------:| -----:|
-| image_02      | captured from the left camera | PNJ |
-| image_03      | captured from the right camera     |   PNJ |
+| image_02      | captured from the left camera | PNG |
+| image_03      | captured from the right camera     |   PNG |
 | calib | camera calibration file      |    TXT |
 
 
